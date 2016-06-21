@@ -1,0 +1,17 @@
+#idea
+.idea/
+.git/
+out/
+*.iml
+
+#eclipse
+bin/
+.settings/
+*.classpath
+*.project
+
+#misc
+*.jar
+*.class
+/build/
+/target/
